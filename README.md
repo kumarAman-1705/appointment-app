@@ -64,10 +64,10 @@ we can run javascript and typescript on web servers), this is why we need it. To
 2.NPM (Node package manager) --> Comes automatically with node.js
 
 ###
-in terminal(CMD) --> 1. node -v (to check node.js version) (if not then install --> from https://nodejs.org)
+in terminal(CMD) --> 1. node -v (to check node.js version) (if not then install --> from https://nodejs.org)-> for this app it is "v16.16.0"
                      2. npm i @angular/cli or npm i @angular/cli@16.1.6 --location = global (version specific ang globally on local)
                      3. ng v (to check the version of angular which we are using)
-                     4. ng new appointment-app (to create new application named appointment-app)
+                     4. ng new appointment-app (to create new application named appointment-app) --> only for new    application
                      5. cd appointment-app
                      6. ng serve
 
